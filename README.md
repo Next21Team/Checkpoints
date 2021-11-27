@@ -12,7 +12,7 @@ The plugin includes:
 * One checkpoint model - 256 possible colors. You can turn on smooth transfusion.
 * Final checkpoint.
 * Menu for placing checkpoints.
-* Support [DeathrunMod Duels](https://github.com/Mistrick/DeathrunMod).
+* Support [DeathrunMod](https://github.com/Mistrick/DeathrunMod) Duels.
 
 ### Demonstration video
 [![Checkpoints](https://img.youtube.com/vi/InHb46OcwFo/0.jpg)](https://youtu.be/InHb46OcwFo)

@@ -12,7 +12,7 @@ AMX Mod X плагин для Counter-Strike.
 - Одна модель чекпоинта — 256 возможных цветов. Можно включить плавное переливание.
 - Присутствие финального чекпоинта.
 - Меню для размещения чекпоинтов.
-- Поддержка [DeathrunMod Duels](https://github.com/Mistrick/DeathrunMod).
+- Поддержка [DeathrunMod](https://github.com/Mistrick/DeathrunMod) Duels.
 
 ### Демонстрирующее видео
 [![Checkpoints](https://img.youtube.com/vi/InHb46OcwFo/0.jpg)](https://youtu.be/InHb46OcwFo)
