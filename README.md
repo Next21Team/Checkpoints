@@ -17,6 +17,9 @@ The plugin includes:
 ### Demonstration video
 [![Checkpoints](https://img.youtube.com/vi/InHb46OcwFo/0.jpg)](https://youtu.be/InHb46OcwFo)
 
+## Commands
+* `checkpoint` — menu for placing checkpoints on the map.
+
 ## Configuration
 ### Cvars
 - ```n21_checkpoint_reward "300"``` Reward for passing the checkpoint.

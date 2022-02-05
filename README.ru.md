@@ -17,6 +17,9 @@ AMX Mod X плагин для Counter-Strike.
 ### Демонстрирующее видео
 [![Checkpoints](https://img.youtube.com/vi/InHb46OcwFo/0.jpg)](https://youtu.be/InHb46OcwFo)
 
+## Команды
+* `checkpoint` — меню размещения чекпоинтов на карте.
+
 ## Настройки
 ### Квары
 - ```n21_checkpoint_reward "300"``` Награда за прохождение чекпоинта.
