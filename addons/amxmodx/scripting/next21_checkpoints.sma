@@ -183,7 +183,7 @@ create_checkpoint(const Float: vOrigin[3], const Float: fAngle)
 	if (g_iCheckpointsNum == MAX_CHECKPOINTS)
 		return NULLENT
 		
-	new iEnt = rg_create_entity("info_target", true)
+	new iEnt = rg_create_entity("info_target")
 	if (is_nullent(iEnt))
 		return NULLENT
 				
